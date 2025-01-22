@@ -1,0 +1,27 @@
+We have successfully snapshotted at the block height: **879122**.  
+
+- **Korean Time (KST, UTC+9)**: 2025-01-22 23:46:17  
+- **UK Time (GMT, UTC+0)**: 2025-01-22 14:46:17  
+
+Here are the block details:  
+
+| **Field**          | **Value**                                                                 |
+|---------------------|---------------------------------------------------------------------------|
+| **Block**           | 879122                                                                   |
+| **Hash**            | 0000000339f7e565ae15656cb37918bcbd65bd6bd31dc2b65676a743bd77a881         |
+| **Transactions**    | 4                                                                        |
+| **Height**          | 879122                                                                   |
+| **Confirmations**   | 41                                                                       |
+| **Timestamp**       | Korean Time (KST, UTC+9): 2025-01-22 23:46:17<br>UK Time (GMT, UTC+0): 2025-01-22 14:46:17 |
+| **Size (bytes)**    | 4798                                                                     |
+| **Version**         | 536870912                                                                |
+| **Merkle Root**     | dd4fa2735cffe236b25d32d98a3076e26bfa012b19ff1e07227aa35555b9582c         |
+| **Nonce**           | 0000526600000000000000000000000000000000000000008bb2810000000004         |
+| **Bits**            | 1d0480ce                                                                 |
+| **Difficulty**      | 116426.8964685312                                                        |
+
+You can use trezor explore to check the details: https://btg1.trezor.io/
+
+Note:
+
+Due to the low hash rate before the merge, there is a possibility of a 51% attack. Therefore, the snapshot requires confirmation of 300 blocks. If mining stops, the current snapshot data will be considered final.
