@@ -1,12 +1,72 @@
-BitcoinGold (BTG) is the only friendly fork of Bitcoin In 2017 Bitcoin civil war. It successfully protected bitcoin by the forks. Provide Plan B for Bitcoin holders, and provide free insurance by Free Air drop all coins to Bitcoin Holders. 
-BitcoinGold friendly forked by:
-1, Change the Mining algorithm from ASIC one to GPU one. Enhanced Bitcoiner to believe that Bitcoin will win, the last option is change the algorithm. Warned the Big block people, they will never win.
-Now, with the back of Jack Liao, Founder of BitcoinGold. BTG will upgrade SW, merge back to Bitcoin.The coming decade is the era of Bitcoin applications. BTG will make Bitcoin applications big bang.
-After merged back to Bitcoin:
-1,After merged, BTG Enhances the security,The same security level as Bitcoin. Now, Exchanges require 300 confirms , around 2 days. Payment, trading, and arbitrage cannot be done.
-2, The inflation reduces to zero.
-3,Many applications will be deployed to use BTG.
+BitcoinGold Merging back to Bitcoin 2025-01-20
+
+Warning:
+
+Do not provide your private key or recovery seeds to anyone. We will never ask for them. If you lose your private key or recovery seeds, your assets will be stolen.
+
+
+BitcoinGold (BTG) is the only friendly fork of Bitcoin In 2017 Bitcoin civil war. It successfully protected bitcoin by the forks. Provide Plan B for Bitcoin holders, and provide free insurance by Free Air drop all coins to Bitcoin Holders. BitcoinGold friendly forked by
+
+1. Change the Mining algorithm from ASIC one to GPU one. Enhanced Bitcoiner to believe that Bitcoin will win, the last option is change the algorithm. Warned the Big block people, they will never win. Now, with the back of Jack Liao, Founder of BitcoinGold. BTG will upgrade SW, merge back to Bitcoin. As the only friendly fork of Bitcoin, BTG's 2017 fork goal—to protect Bitcoin and serve as its risk-hedging insurance—has been accomplished.** Based on the current state of the global crypto market, Bitcoin will enter an era of application development in the next decade. Under Jack Liao's renewed leadership, BTG has decided to merge back into Bitcoin, becoming Bitcoin's largest native asset. The merger offers the following benefits:
+
+1. Enhanced Security:
+
+After the merger, BTG achieves the same security level as Bitcoin. Currently, exchanges require 300 confirmations, taking approximately 2 days, making payments, trading, and arbitrage impossible.
+
+2. Zero Inflation: This promotes value stability and growth.
+
+3. Development of USDG (USD Gold): A stablecoin backed by BTG. In the first phase, it will be backed by BTG, with plans to add support for Bitcoin and gold in the future.
+
+4. Application Deployment:Many applications will be deployed using BTG.
+
 All these will help BitcoinGold great again.
+
 By the way, Miner can use the GPU to do AI reasoning after merged. There will be new project for AI，uses BTG as payment currency.
-all detals will pulic here: 
+
+Here is the merge details:
+
+1. Merge and Snapshot date: Jan 22, 2025. Block height: the last block of Jan22, Korean time,(GMT+9).
+
+2. Merge policy: . All BTGO holds by the exchanges that support the Merge will 1:1 swap to BTG. And the all other BTGO, needs to send to one public address. Swap according the USD price of BTG and BTGO.All these BTGO will be sold, 50% of the fund will be used to build up trading pair. 50% to buy BTG and burn it.
+
+We suggest the CEX:
+
+1. Suspend deposits and withdrawals one day in advance.
+
+2. After the merger, CEXS will decide the reopening date of deposits and withdrawals at CEXS own discretion.
+
+We suggest BTGer:
+
+If you support BTG merge back to Bitcoin. Deposit BTG to your target CEX. CEX will help you swat safely.
+
+Make BTG great again.
+
+By the way, Bitcoingold team is working with Hongkong BitEXchange to launch USDGOLD(USDG) which is BitcoinGold overcollateralized Stablecoin. Should be launched at middle of Feb 2025.
+
+Warning: 
+
+Do not provide your private key or recovery seeds to anyone. We will never ask for them. If you lose your private key or recovery seeds, your assets will be stolen.
+
+Q&A
+1. Is there a limit on the amount?
+
+BTG on Bitcoin Taproot: 21M. Swap: no limited.
+
+2. Will the new tokens be credited immediately, or how long will it take?
+
+Immediately. No lock.
+
+3. Are the fees for this bridge the same as the on-chain fees, or will it be higher?
+
+The fee is on L2: Lightning networks or skaling.org
+
+4. Is it compatible with MetaMask?
+
+Metamask doesn't support bitcoin network. We recommand to use OKX web3 wallet.
+
+5. Is there an expiration date for the web bridge link?
+
+6 months.
+
+all detals will pulic here too: 
 https://merge.bitcoingold.org/
