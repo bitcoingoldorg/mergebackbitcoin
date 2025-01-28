@@ -1,0 +1,18 @@
+Based on communication with exchanges and adhering to the primary principle of protecting BTG holders, BitcoinGold has implemented an extended snapshot period specifically for exchange users:
+
+Exchange Software Upgrade Support
+Exchanges supporting BitcoinGold’s software upgrade plan (using the ticker BTG) must update their official social media links (GitHub, Twitter, etc.) as indicated on the BitcoinGold website.
+
+Deposit BTG During Extended Period
+Users who held BTG at the time of the merge must deposit their BTG into a supported exchange during the extended period.
+
+Redemption Process
+Exchanges will aggregate newly deposited BTG into designated addresses, sign them, and BitcoinGold will redeem them at a 1:1 ratio for the post-merge BTG tokens.
+
+Important Notes:
+
+BTG held during the merge can only be redeemed once.
+
+Post-merge, the abandoned mining chain poses significant security risks. All transactions must be finalized based on the number of confirmed blocks as per the exchange’s security rules.
+
+Additional details will be announced by individual exchanges.
